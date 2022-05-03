@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/freetogame-api/static/css/main.baf4c27e.css",
+    "main.js": "/freetogame-api/static/js/main.3e6afd9d.js",
+    "static/js/787.3017c6be.chunk.js": "/freetogame-api/static/js/787.3017c6be.chunk.js",
+    "static/media/sun.svg": "/freetogame-api/static/media/sun.8d1b4cc0d7381d7e80022139552f4f91.svg",
+    "static/media/moon.svg": "/freetogame-api/static/media/moon.57ecf533e425df3f11b9087eb3fff613.svg",
+    "index.html": "/freetogame-api/index.html",
+    "static/media/playIcon.svg": "/freetogame-api/static/media/playIcon.6b466ba9e8d96920a12bb1f16c14d8d2.svg",
+    "static/media/playIconLight.svg": "/freetogame-api/static/media/playIconLight.35c633c33f18a78754775bd978ea1dbb.svg",
+    "main.baf4c27e.css.map": "/freetogame-api/static/css/main.baf4c27e.css.map",
+    "main.3e6afd9d.js.map": "/freetogame-api/static/js/main.3e6afd9d.js.map",
+    "787.3017c6be.chunk.js.map": "/freetogame-api/static/js/787.3017c6be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baf4c27e.css",
+    "static/js/main.3e6afd9d.js"
+  ]
+}
